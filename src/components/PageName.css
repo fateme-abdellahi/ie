@@ -1,0 +1,15 @@
+.page-name{
+    background-color:#C2B9AD;
+    border-radius: 60px 0 0 60px;
+    padding:32px 142px;
+    color:white;
+    font-weight: 400;
+    font-size: 40px;
+    font-family: 'Poppins';
+    width:fit-content;
+}
+.page-name-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom:115px;
+}

@@ -1,0 +1,41 @@
+.buttons-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.buttons-container * {
+  background: #3b6e8f;
+  border: none;
+  border-radius: 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: white;
+  padding: 9px 77px;
+  margin-top: 46px;
+}
+.services-input {
+  display: block;
+  width: 395px;
+  height: 58px;
+  background: #ffffff;
+  border-radius: 60px;
+  margin-top: 54px;
+  margin-bottom: 41px;
+  padding: 0 28px;
+}
+
+.items-container p {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 32px;
+}
+
+.change-button {
+  width: 119px;
+  height: 40px;
+  background: #261c02;
+  border-radius: 60px;
+  float: right;
+}
